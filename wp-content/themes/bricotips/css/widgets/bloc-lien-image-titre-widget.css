@@ -1,0 +1,32 @@
+
+/* CSS POUR LE WIDGET .Bloc_Lien_Image_Widget */
+
+.bloc_lien_image_widget{
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+.bloc_lien_image_widget img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.bloc_lien_image_widget .titre {
+    position: absolute;
+    z-index: 2;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+}
