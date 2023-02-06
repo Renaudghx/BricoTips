@@ -1,0 +1,81 @@
+[06-Feb-2023 14:42:35 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:42:35 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:42:36 UTC] PHP Warning:  Undefined variable $shown in C:\MAMP\htdocs\bricotips\wp-content\themes\bricotips\functions.php on line 164
+[06-Feb-2023 14:42:36 UTC] PHP Warning:  Undefined variable $shown in C:\MAMP\htdocs\bricotips\wp-content\themes\bricotips\functions.php on line 164
+[06-Feb-2023 14:42:36 UTC] PHP Warning:  Undefined variable $shown in C:\MAMP\htdocs\bricotips\wp-content\themes\bricotips\functions.php on line 164
+[06-Feb-2023 14:42:36 UTC] PHP Warning:  Undefined variable $shown in C:\MAMP\htdocs\bricotips\wp-content\themes\bricotips\functions.php on line 164
+[06-Feb-2023 14:42:36 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:42:36 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:48:37 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:48:37 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:48:39 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:48:39 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:48:51 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:48:51 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:48:57 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:48:57 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:49:04 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:49:04 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:49:10 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:49:10 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:49:46 UTC] PHP Warning:  Undefined variable $shown in C:\MAMP\htdocs\bricotips\wp-content\themes\bricotips\functions.php on line 164
+[06-Feb-2023 14:49:46 UTC] PHP Warning:  Undefined variable $shown in C:\MAMP\htdocs\bricotips\wp-content\themes\bricotips\functions.php on line 164
+[06-Feb-2023 14:49:46 UTC] PHP Warning:  Undefined variable $shown in C:\MAMP\htdocs\bricotips\wp-content\themes\bricotips\functions.php on line 164
+[06-Feb-2023 14:49:46 UTC] PHP Warning:  Undefined variable $shown in C:\MAMP\htdocs\bricotips\wp-content\themes\bricotips\functions.php on line 164
+[06-Feb-2023 14:49:46 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:49:46 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:50:07 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:50:07 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:50:08 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:50:08 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:50:09 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:50:09 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:50:11 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:50:11 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:51:20 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:51:20 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:52:48 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:52:48 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:52:55 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:52:55 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:52:59 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:52:59 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:53:02 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:53:02 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:53:28 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:53:28 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:53:30 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:53:30 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:53:33 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:53:33 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:53:55 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:53:55 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:53:57 UTC] PHP Warning:  Undefined variable $shown in C:\MAMP\htdocs\bricotips\wp-content\themes\bricotips\functions.php on line 164
+[06-Feb-2023 14:53:57 UTC] PHP Warning:  Undefined variable $shown in C:\MAMP\htdocs\bricotips\wp-content\themes\bricotips\functions.php on line 164
+[06-Feb-2023 14:53:57 UTC] PHP Warning:  Undefined variable $shown in C:\MAMP\htdocs\bricotips\wp-content\themes\bricotips\functions.php on line 164
+[06-Feb-2023 14:53:57 UTC] PHP Warning:  Undefined variable $shown in C:\MAMP\htdocs\bricotips\wp-content\themes\bricotips\functions.php on line 164
+[06-Feb-2023 14:53:57 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 14:53:57 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 15:20:04 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 15:20:04 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 15:20:04 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 15:20:04 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 15:20:13 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 15:20:13 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 15:20:18 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\MAMP\htdocs\bricotips\wp-content\plugins\bricotips-login\includes\class-bricotips-login.php on line 161
+[06-Feb-2023 15:20:18 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 15:20:18 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 15:20:18 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\MAMP\htdocs\bricotips\wp-content\plugins\bricotips-login\includes\class-bricotips-login.php on line 161
+[06-Feb-2023 15:20:18 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\MAMP\htdocs\bricotips\wp-content\plugins\bricotips-login\includes\class-bricotips-login.php on line 161
+[06-Feb-2023 15:21:35 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 15:21:35 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 15:21:41 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 15:21:41 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 15:24:03 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 15:24:03 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 15:24:08 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 15:24:08 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 15:24:10 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 15:24:10 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 17:22:11 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279
+[06-Feb-2023 17:22:11 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\bricotips\wp-includes\functions.php on line 5279

@@ -160,7 +160,7 @@ add_action('loop_end', 'loop_end_action');
 $shown = false;
 function bricotips_intro_section_action()
 {
-    global $shown;
+    global $show;
     if (is_archive() && !$shown):
         ?>
         <p class="intro">Vous trouverez dans cette page la liste de tous les outils que nous avons référencée pour le
