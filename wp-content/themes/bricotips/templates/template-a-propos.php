@@ -9,7 +9,7 @@ get_header();
 <main id="apropos">
 
     <?php
-        echo do_shortcode('[banniere-titre titre="À propos de BricoTips" src="http://localhost/bricotips/wp-content/uploads/2022/11/14684085.webp"]');
+        echo do_shortcode('[banniere-titre titre="À propos de BricoTips" src="http://localhost/bricotips/wp-content/uploads/2023/02/banniere-image.webp"]');
     ?>
 
     <section id="quisuisje">
